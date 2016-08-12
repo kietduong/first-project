@@ -15,7 +15,7 @@
     * _Open in ATOM_
     * _Adjust HTML, CSS, Bootstrap as you see fit}_
 ### URL to gh-pages
-    _{https://kietduong.github.io/First-Friday-Project/}_
+    _{https://kietduong.github.io/First-Project/}_
 #### Known bugs
   _{No known bugs}_
 
