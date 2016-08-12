@@ -1,0 +1,29 @@
+img{
+  float:right;
+  width:20%;
+}
+#about{
+  display: block;
+}
+.col-md-4{
+  background-color: #00FFFF;
+  float:left;
+  margin: 2px;
+  padding: 5px 10px 5px 10px;
+  border-style: dashed;
+}
+.col-md-5{
+  background-color: #FFE4C4;
+  float: left;
+  margin: 2px;
+  padding: 5px 10px 5px 10px;
+  border-style: dashed;
+}
+p{
+  border: solid;
+  text-shadow: 5px;
+
+}
+body{
+background-color: purple;
+}
